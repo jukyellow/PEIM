@@ -9,5 +9,12 @@
 4. CA_OS
 5. 정보보안
 6. 경영정보
-7. 디지털서비스
+7. 디지털 신기술
 8. 알고리즘
+
+- 문제/답안 예시
+![image](https://user-images.githubusercontent.com/45334819/56851939-b5816600-694f-11e9-926f-cfcbe8b961e2.png)  
+![image](https://user-images.githubusercontent.com/45334819/56851949-c631dc00-694f-11e9-8fc4-a303f29da36c.png)  
+
+- 기술사 공부 마지막 날...짤
+![image](https://user-images.githubusercontent.com/45334819/56851952-d053da80-694f-11e9-9d53-bb05ada06493.png)
