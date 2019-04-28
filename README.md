@@ -1,8 +1,8 @@
 # PEIM
-> 정보관리기술사(Professional Engineer Information Management) 자격증 도전
-
-- 학습기간: 2015년 11월 ~ 2016년 7월 (9개월)
-- 학습토픽
+> 정보관리기술사(Professional Engineer Information Management) 자격증 도전  
+  
+- 학습기간: 2015년 11월 ~ 2016년 7월 (9개월)  
+- 학습토픽  
 1. 소프트웨어공학
 2. 데이터베이스
 3. 네트워크
