@@ -1,5 +1,5 @@
 # PEIM
-정보관리기술사(Professional Engineer Information Management) 자격증 도전
+> 정보관리기술사(Professional Engineer Information Management) 자격증 도전
 
 - 학습기간: 2015년 11월 ~ 2016년 7월 (9개월)
 - 학습토픽
@@ -12,6 +12,10 @@
 7. 디지털 신기술
 8. 알고리즘
 
+- 자격증 전형과정
+ 1. 필기시험: cut off 60점
+ 2. 실기전형: 기술사/교수 면접
+ 
 - 문제답안 및 채점
  1. 문제답안 : 서술형, 필기
  2. 채점: 100점만점 60점이상일때 합격(상대평가 작용, 59점에 100명씩 포진..)
